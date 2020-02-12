@@ -1,1 +1,1 @@
-sample init values
+sample init values 3
